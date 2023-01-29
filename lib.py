@@ -1,2 +1,2 @@
-for k in range(10):
-    print("*" * (k + 1))
+for i in range(5):
+    print("*" * (i + 1))
